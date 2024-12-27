@@ -9,6 +9,7 @@ tasks:
     output:
       name: '@mark-magic/plugin-docs'
       config:
+        base: '/to-the-stars/'
         path: ./dist/docs
         lang: zh-CN
         sitemap:
